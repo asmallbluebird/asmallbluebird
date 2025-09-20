@@ -1,17 +1,24 @@
 # 👋 Hello World, I'm Kim Min-Gyeong
 
-💻 *Backend-Oriented Fullstack Developer* 
-안녕하세요! 저는 벡엔드 아키텍처에 강점을 두고, 프론트엔드까지 구현할 수 있는
+💻 *Backend-Oriented Fullstack Developer*  
+안녕하세요! 저는 벡엔드 아키텍처에 강점을 두고, 프론트엔드까지 구현할 수 있는  
 백엔드 지향 풀스택 개발자입니다.
 
 ---
-## 💟portfolio
-- 🌐 Portfolio: [asmallbluebird.github.io](https://asmallbluebird.github.io)
 
+## 💟 Portfolio
+<div align="center">
+
+🌐 [asmallbluebird.github.io](https://asmallbluebird.github.io)
+
+</div>
+
+---
 
 ## 🚀 Tech Stack
+<div align="center">
 
-### Frontend
+### Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=111)
@@ -22,7 +29,7 @@
 ![Axios](https://img.shields.io/badge/Axios-5A78F0?style=for-the-badge&logo=axios&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Backend
+### Backend  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -33,10 +40,10 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white)
 
-### Database
+### Database  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### Dev Tools
+### Dev Tools  
 ![Git](https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -46,44 +53,64 @@
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 ![Termius](https://img.shields.io/badge/Termius-2F80ED?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
-### Collaboration / Design
+### Collaboration / Design  
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-22C55E?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### Deployment / Infra
+### Deployment / Infra  
 ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-00C73C?style=for-the-badge&logo=naver&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0B0F14?style=for-the-badge&logo=vercel&logoColor=white)
 
+</div>
 
 ---
 
 ## 🌟 Featured Projects
+<div align="center">
+
+✨ 곧 채워질 예정입니다 ✨
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmallbluebird/asmallbluebird/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmallbluebird/asmallbluebird/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/asmallbluebird/asmallbluebird/output/github-contribution-grid-snake.svg" />
 </picture>
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asmallbluebird&show_icons=true&theme=default&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmallbluebird&layout=compact&theme=default&hide_border=true)
+
+</div>
 
 ---
 
 ## 📫 Contact
-- 📧 Email: **rlaalsrud002@gmail.com**
-- 🐙 GitHub: [github.com/asmallbluebird](https://github.com/asmallbluebird)
+<div align="center">
+
+📧 Email: **rlaalsrud002@gmail.com**  
+🐙 GitHub: [github.com/asmallbluebird](https://github.com/asmallbluebird)
+
+</div>
 
 ---
-✨ 최선을 다하는 건 기본! 공부하며 배우고 성장하는 개발자가 되겠습니다!
 
+<div align="center">
 
+✨ 최선을 다하는 건 기본! 공부하며 배우고 성장하는 개발자가 되겠습니다! ✨
 
+</div>
