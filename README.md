@@ -1,8 +1,11 @@
-# 👋 Hello World, I'm Kim Min-Gyeong
 <div align="center">
 
-💻 *Backend-Oriented Fullstack Developer*  
-<div align="center">
+![visitors](https://komarev.com/ghpvc/?username=asmallbluebird&label=Profile%20views&color=blueviolet&style=flat)
+
+# ✨ Hello world, I'm Kim Min-Gyeong ✨  
+💻 Backend-Oriented Fullstack Developer
+
+</div>
 안녕하세요! 저는 벡엔드 아키텍처에 강점을 두고, 프론트엔드까지 구현할 수 있는  
 백엔드 지향 풀스택 개발자입니다.
 
