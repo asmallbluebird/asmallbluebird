@@ -1,6 +1,8 @@
 # 👋 Hello World, I'm Kim Min-Gyeong
+<div align="center">
 
 💻 *Backend-Oriented Fullstack Developer*  
+<div align="center">
 안녕하세요! 저는 벡엔드 아키텍처에 강점을 두고, 프론트엔드까지 구현할 수 있는  
 백엔드 지향 풀스택 개발자입니다.
 
@@ -92,8 +94,8 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asmallbluebird&show_icons=true&theme=default&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmallbluebird&layout=compact&theme=default&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=asmallbluebird&show_icons=true&theme=default&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmallbluebird&layout=compact&theme=default&hide_border=true" height="180px"/>
 
 </div>
 
