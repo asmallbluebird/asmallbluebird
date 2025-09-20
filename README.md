@@ -1,6 +1,6 @@
 <div align="center">
 
-![visitors](https://komarev.com/ghpvc/?username=asmallbluebird&label=Profile%20views&color=blueviolet&style=flat)
+![visitors](https://komarev.com/ghpvc/?username=asmallbluebird&label=Visitors&color=blueviolet&style=flat)
 
 # ✨ Hello world, I'm Kim Min-Gyeong ✨  
 💻 Backend-Oriented Fullstack Developer
